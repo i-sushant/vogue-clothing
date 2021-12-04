@@ -1,14 +1,11 @@
 {
-  "name": "react",
+  "name": "crown-clothing-ltd",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "firebase": "9.4.1",
+    "firebase": "9.5.0",
     "lodash.memoize": "4.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -20,8 +17,11 @@
     "redux": "3.7.2",
     "redux-logger": "3.0.0",
     "redux-persist": "6.0.0",
+    "redux-saga": "1.1.3",
+    "redux-thunk": "2.4.1",
     "reselect": "3.0.0",
-    "sass": "1.43.4"
+    "sass": "1.43.4",
+    "styled-components": "5.3.3"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
